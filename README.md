@@ -1,0 +1,4 @@
+-     Hi, I’m @help-im-stuck-in-a-box
+-     I’m interested in mathematics and programming
+-     I’m currently learning Python and Java
+-     How to reach me: discord, relativities#3771
